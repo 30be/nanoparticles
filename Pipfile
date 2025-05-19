@@ -6,11 +6,11 @@ name = "pypi"
 [packages]
 colour-science = "*"
 colour = "*"
-jupyter = "*"
 matplotlib = "*"
 numpy = "*"
 scipy = "*"
 pandas = "*"
+jupyter = "*"
 
 [dev-packages]
 
